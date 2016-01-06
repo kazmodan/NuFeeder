@@ -1,5 +1,10 @@
 {
-  "custodians": [],
+  "custodians": [
+    {
+      "address": "BPgXRqBu9GApyXXdPXFz7JsuaMSvkT9ntE",
+      "amount": 4536
+    }
+  ],
   "parkrates": [
     {
       "rates": [],
