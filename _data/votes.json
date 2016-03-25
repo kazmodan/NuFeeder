@@ -5,16 +5,16 @@
       "amount": 1
     },
     {
-      "address": "BP7geZ2uhdeaqS5vX8Zx3abd43abs62aus",
-      "amount": 1750
-    },
-    {
       "address": "BAs6fhm6bfJ1b6LGnDQwah1C8frfVjjWhm",
       "amount": 1360
     },
     {
       "address": "BEv74GNRYyAeRJbXxjQvbbS48E7YvDgfs6",
       "amount": 450
+    },
+    {
+      "address": "B6t3WuYQvqEW9SqjmpJDA1oy9cXbyFzgoq",
+      "amount": 3000
     }
   ],
   "parkrates": [
